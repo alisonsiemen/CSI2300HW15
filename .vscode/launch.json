@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CSI2300HW15",
+            "request": "launch",
+            "mainClass": "CSI2300HW15",
+            "vmArgs": "--module-path 'c:\\Users\\sieme\\OneDrive\\Documents\\School\\W25\\Computer class\\CSI2300HW15\\lib' --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
